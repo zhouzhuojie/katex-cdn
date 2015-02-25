@@ -1,4 +1,4 @@
-KaTeX for Meteor (cdn version) [![Build Status](https://travis-ci.org/zhouzhuojie/katex-cdn.svg)](https://travis-ci.org/zhouzhuojie/katex-cdn)
+KaTeX for Meteor (cdn version) [![Build Status](https://travis-ci.org/zhouzhuojie/katex-cdn.svg?branch=master)](https://travis-ci.org/zhouzhuojie/katex-cdn)
 ================
 
 `meteor add rexzh0u:katex-cdn`
