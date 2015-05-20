@@ -1,6 +1,6 @@
 Package.describe({
   name: 'rexzh0u:katex-cdn',
-  version: '0.1.1',
+  version: '0.3.0',
   summary: 'katex with cdn font loading',
   git: 'https://github.com/zhouzhuojie/katex-cdn.git',
   documentation: 'README.md'
